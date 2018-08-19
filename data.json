@@ -1,0 +1,46 @@
+{
+	"basics":{
+		"name":"Manasa",
+		"role":"mean-stack",
+		"mobile":"+91 9876543210",
+		"email":"manasakethineni135@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"b-tech(computer science and engineering)",
+			"institute":"vignan nirula",
+			"data":["2016-20","80%"]
+		},
+		{
+			"degree":"intermediate(mpc)",
+			"institute":"sri chaitanya",
+			"data":["2014-16","85%"]
+		},
+		{
+			"degree":"ssc",
+			"institute":"pragathi ",
+			"data":["2014","80%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"progrmming languages",
+			"content":["Python","C","Java","R","C++"]
+		},
+		{
+			"title":"Data Bases",
+			"content":["Sql","Oracle","mysql"]
+		},
+		{
+			"title":"Web technologies",
+			"content":["HTML","XML","JavaScript","css"]
+		},
+		{
+			"title":"Operating Systems",
+			"content":["Windows","Unix","Linux"]
+		}
+	]
+}
